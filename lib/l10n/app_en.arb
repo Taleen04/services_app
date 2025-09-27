@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "usernameOrEmailPlaceholder": "Username/Email or phone number",
+  "password": "Password",
+  "loggedInSuccessfully": "Logged in successfully",
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "pleaseEnterYourPhoneNumber": "Please enter your phone number",
+  "login": "Login",
+  "forgotPassword": "Forgot Password?",
+  "logInToContinueYourJourney": "Log in to continue your journey"
+}

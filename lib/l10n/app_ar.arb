@@ -1,0 +1,11 @@
+{
+  "@@locale": "ar",
+  "usernameOrEmailPlaceholder": "اسم المستخدم / البريد الإلكتروني أو رقم الهاتف",
+  "password": "كلمة المرور",
+  "loggedInSuccessfully": "تم تسجيل الدخول بنجاح",
+  "passwordMustBeAtLeast6Characters": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+  "pleaseEnterYourPhoneNumber": "يرجى إدخال رقم الهاتف",
+  "login": "تسجيل الدخول",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "logInToContinueYourJourney": "سجل دخولك للمتابعة إلى رحلتك"
+}

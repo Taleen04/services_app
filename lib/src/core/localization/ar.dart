@@ -1,0 +1,26 @@
+const Map<String, String> ar = {
+  'login': 'تسجيل الدخول',
+  'welcome': '....اهلا بك من جديد',
+  'phoneNumber': 'رقم الهاتف',
+  'password': 'كلمة المرور',
+  'hintpassword': 'أكتب كلمة المرور',
+  'forgotPassword': 'هل نسيت كلمة المرور ؟',
+  'Login': 'تسجيل الدخول',
+  'createAccount': 'إنشاء حساب',
+  'noAccount': 'ليس لديك حساب؟',
+  'titleforgotPassword': 'نسيت كلمة المرور!',
+  'hintforgotPassword': 'أدخل الكود الذي تم إرساله إلى الرقم ',
+  'second': 'ثانية',
+  'sendCode': 'إرسال الكود مرة أخرى',
+  'confirm': 'تأكيد',
+  'pleaseEnterYourPhoneNumber': 'ارجو كتابة رقم الهاتف لإرسال رمز التحقق',
+  'Check_the_phone': 'تحقق من الهاتف!',
+  'otpSentMessage': 'لقد قمنا بإرسال OTP لرقم الهاتف الذي قمت بتسجيله',
+  'resendCode': '؟إعادة إرسال الكود مرة أخرى',
+  'resetPassword': 'إعادة تعيين كلمة المرور !',
+  'passwordNote':
+      '*ملاحظة يجب ان تحتوي كلمة المرور على مجموعة : من الاحرف ,الارقام ,الرموز الخاصة',
+  'newPassword': 'كلمة المرور الجديدة',
+  'confirmPassword': 'إعادة كلمة المرور',
+};
+
